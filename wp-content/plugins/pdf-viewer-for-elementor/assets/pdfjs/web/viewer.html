@@ -19,9 +19,8 @@ Adobe CMap resources are covered by their own copyright but the same license:
     Copyright 1990-2015 Adobe Systems Incorporated.
 
 See https://github.com/adobe-type-tools/cmap-resources
--->
-<html dir="ltr" mozdisallowselectionprint>
-  <head>
+--><html dir="ltr" mozdisallowselectionprint>
+  <head><base href="/annualreport2020/">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="google" content="notranslate">
@@ -243,11 +242,11 @@ See https://github.com/adobe-type-tools/cmap-resources
                 </div>
                 <span id="scaleSelectContainer" class="dropdownToolbarButton">
                   <select id="scaleSelect" title="Zoom" tabindex="23" data-l10n-id="zoom">
-                    <option id="pageAutoOption" title="" value="auto" selected="selected" data-l10n-id="page_scale_auto">Automatic Zoom</option>
+                    <option id="pageAutoOption" title="" value="auto" selected data-l10n-id="page_scale_auto">Automatic Zoom</option>
                     <option id="pageActualOption" title="" value="page-actual" data-l10n-id="page_scale_actual">Actual Size</option>
                     <option id="pageFitOption" title="" value="page-fit" data-l10n-id="page_scale_fit">Page Fit</option>
                     <option id="pageWidthOption" title="" value="page-width" data-l10n-id="page_scale_width">Page Width</option>
-                    <option id="customScaleOption" title="" value="custom" disabled="disabled" hidden="true"></option>
+                    <option id="customScaleOption" title="" value="custom" disabled hidden="true"></option>
                     <option title="" value="0.5" data-l10n-id="page_scale_percent" data-l10n-args='{ "scale": 50 }'>50%</option>
                     <option title="" value="0.75" data-l10n-id="page_scale_percent" data-l10n-args='{ "scale": 75 }'>75%</option>
                     <option title="" value="1" data-l10n-id="page_scale_percent" data-l10n-args='{ "scale": 100 }'>100%</option>
@@ -270,27 +269,23 @@ See https://github.com/adobe-type-tools/cmap-resources
         </div>
 
         <menu type="context" id="viewerContextMenu">
-          <menuitem id="contextFirstPage" label="First Page"
-                    data-l10n-id="first_page"></menuitem>
-          <menuitem id="contextLastPage" label="Last Page"
-                    data-l10n-id="last_page"></menuitem>
-          <menuitem id="contextPageRotateCw" label="Rotate Clockwise"
-                    data-l10n-id="page_rotate_cw"></menuitem>
-          <menuitem id="contextPageRotateCcw" label="Rotate Counter-Clockwise"
-                    data-l10n-id="page_rotate_ccw"></menuitem>
+          <menuitem id="contextFirstPage" label="First Page" data-l10n-id="first_page"></menuitem>
+          <menuitem id="contextLastPage" label="Last Page" data-l10n-id="last_page"></menuitem>
+          <menuitem id="contextPageRotateCw" label="Rotate Clockwise" data-l10n-id="page_rotate_cw"></menuitem>
+          <menuitem id="contextPageRotateCcw" label="Rotate Counter-Clockwise" data-l10n-id="page_rotate_ccw"></menuitem>
         </menu>
 
         <div id="viewerContainer" tabindex="0">
           <div id="viewer" class="pdfViewer"></div>
         </div>
 
-        <div id="errorWrapper" hidden='true'>
+        <div id="errorWrapper" hidden="true">
           <div id="errorMessageLeft">
             <span id="errorMessage"></span>
             <button id="errorShowMore" data-l10n-id="error_more_info">
               More Information
             </button>
-            <button id="errorShowLess" data-l10n-id="error_less_info" hidden='true'>
+            <button id="errorShowLess" data-l10n-id="error_less_info" hidden="true">
               Less Information
             </button>
           </div>
@@ -300,7 +295,7 @@ See https://github.com/adobe-type-tools/cmap-resources
             </button>
           </div>
           <div class="clearBoth"></div>
-          <textarea id="errorMoreInfo" hidden='true' readonly="readonly"></textarea>
+          <textarea id="errorMoreInfo" hidden="true" readonly></textarea>
         </div>
       </div> <!-- mainContainer -->
 
@@ -391,4 +386,3 @@ See https://github.com/adobe-type-tools/cmap-resources
     <div id="printContainer"></div>
   </body>
 </html>
-
