@@ -569,28 +569,6 @@ body.rtl .elementor-32 .elementor-element.elementor-element-ea5ab9a {right: -10%
 .elementor-32 .elementor-element.elementor-element-a747cca .eael-data-table-wrap table td a {color: #c15959;}
 .elementor-32 .elementor-element.elementor-element-a747cca .eael-data-table-wrap table td a:hover {color: #6d7882;}
 .elementor-32 .elementor-element.elementor-element-a747cca > .elementor-widget-container {margin: 0% 0% 0% 0%;}
-.elementor-32 .elementor-element.elementor-element-57631af > .elementor-container {max-width: 1440px;}
-.elementor-32 .elementor-element.elementor-element-57631af {margin-top: 0%;margin-bottom: 5%;padding: 0% 5% 0% 5%;}
-.elementor-32 .elementor-element.elementor-element-178d157 > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 0px;}
-.elementor-32 .elementor-element.elementor-element-fbe756f .eael-data-table {max-width: 100%;}
-.elementor-32 .elementor-element.elementor-element-fbe756f .eael-data-table thead tr th {color: #fff;background-color: #df2127;border-style: solid;border-width: -1px -1px -1px -1px;border-color: #d7d7d7;}
-.elementor-32 .elementor-element.elementor-element-fbe756f table.dataTable thead .sorting:after {color: #fff;}
-.elementor-32 .elementor-element.elementor-element-fbe756f table.dataTable thead .sorting_asc:after {color: #fff;}
-.elementor-32 .elementor-element.elementor-element-fbe756f table.dataTable thead .sorting_desc:after {color: #fff;}
-.elementor-32 .elementor-element.elementor-element-fbe756f .eael-data-table thead tr th:hover {color: #fff;}
-.elementor-32 .elementor-element.elementor-element-fbe756f table.dataTable thead .sorting:after:hover {color: #fff;}
-.elementor-32 .elementor-element.elementor-element-fbe756f table.dataTable thead .sorting_asc:after:hover {color: #fff;}
-.elementor-32 .elementor-element.elementor-element-fbe756f table.dataTable thead .sorting_desc:after:hover {color: #fff;}
-.elementor-32 .elementor-element.elementor-element-fbe756f .eael-data-table thead > tr th .data-table-header-text {font-family: "Open Sans Bold",Sans-serif;}
-.elementor-32 .elementor-element.elementor-element-fbe756f .eael-data-table thead tr th i {font-size: 20px;}
-.elementor-32 .elementor-element.elementor-element-fbe756f .eael-data-table thead tr th .data-table-header-svg-icon {height: 20px;width: 20px;}
-.elementor-32 .elementor-element.elementor-element-fbe756f .eael-data-table tbody > tr:nth-child(2n) td {color: #000;background: #fff;}
-.elementor-32 .elementor-element.elementor-element-fbe756f .eael-data-table tbody > tr:nth-child(2n+1) td {color: #000;background-color: #fff;}
-.elementor-32 .elementor-element.elementor-element-fbe756f .eael-data-table tbody tr td {border-style: solid;border-color: #d7d7d7;font-family: "Open Sans Regular",Sans-serif;}
-.elementor-32 .elementor-element.elementor-element-fbe756f .eael-data-table tbody > tr:nth-child(2n+1) td:hover {color: #000;}
-.elementor-32 .elementor-element.elementor-element-fbe756f .eael-data-table-wrap table td a {color: #c15959;}
-.elementor-32 .elementor-element.elementor-element-fbe756f .eael-data-table-wrap table td a:hover {color: #6d7882;}
-.elementor-32 .elementor-element.elementor-element-fbe756f > .elementor-widget-container {margin: 0% 0% 0% 0%;}
 .elementor-32 .elementor-element.elementor-element-e20bb9b > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 0px;}
 .elementor-32 .elementor-element.elementor-element-127fb03 .elementor-heading-title {color: #000;font-family: "Open Sans Bold",Sans-serif;}
 .elementor-32 .elementor-element.elementor-element-127fb03 > .elementor-widget-container {margin: 0% 0% 2% 0%;padding: 0px 0px 0px 0px;}
@@ -800,6 +778,7 @@ body.elementor-page-32 h1.entry-title, .elementor-page-title {display: none;}
 .elementor-32 .elementor-element.elementor-element-c6b9507 thead tr th {padding: 5px 15px;}
 .elementor-32 .elementor-element.elementor-element-c6b9507 tr > td:first-child {border-right: 2px dashed #df2127 !important;}
 .elementor-32 .elementor-element.elementor-element-c6b9507 th:first-child:before {content: "D";height: 25px;width: 25px;background-color: white;position: absolute;top: 0;left: 0;border: 3px solid #df2127;border-radius: 100%;color: #df2127;display: flex;flex-direction: column;align-content: center;justify-content: center;align-items: center;transform: translate(-25%,0);font-family: "Open Sans Regular",Sans-serif;font-size: 16px;padding: 10px;}
+.elementor-32 .elementor-element.elementor-element-c2b83dd .column-fee {width: 25%;}
 .elementor-32 .elementor-element.elementor-element-8765d6e tr:not(:last-child) > td {border-top: 0;border-bottom: 0;}
 .elementor-32 .elementor-element.elementor-element-8765d6e tr:last-child > td {border-top: 0;}
 .elementor-32 .elementor-element.elementor-element-8765d6e tbody tr {position: relative;}
@@ -811,22 +790,17 @@ body.elementor-page-32 h1.entry-title, .elementor-page-title {display: none;}
 .elementor-32 .elementor-element.elementor-element-705e00d tr:last-child > td {border-top: 0;}
 .elementor-32 .elementor-element.elementor-element-705e00d tbody tr {position: relative;}
 .elementor-32 .elementor-element.elementor-element-705e00d tbody tr:not(:first-child):after {content: "";height: 2px;padding: 0 5px;margin: 0 auto;overflow: hidden;width: calc(100% - 5px);position: absolute;left: 50%;transform: translate(-50%,0);background-image: url("https://techopsph.github.io/urc-ar-2020/wp-content/uploads/border-dashed-1.png");background-size: 100% 2px;background-position: center;background-repeat: no-repeat;}
-.elementor-32 .elementor-element.elementor-element-a747cca .column-1 {width: 25%;}
-.elementor-32 .elementor-element.elementor-element-a747cca .column-2 {width: 30%;}
-.elementor-32 .elementor-element.elementor-element-a747cca .column-3 {width: 20%;}
-.elementor-32 .elementor-element.elementor-element-a747cca .column-4 {width: 25%;}
+.elementor-32 .elementor-element.elementor-element-705e00d .column-director {width: 34%;}
+.elementor-32 .elementor-element.elementor-element-705e00d .column-direct {width: 33%;}
+.elementor-32 .elementor-element.elementor-element-705e00d .column-shares {width: 33%;}
+.elementor-32 .elementor-element.elementor-element-a747cca .column-1 {width: 27%;}
+.elementor-32 .elementor-element.elementor-element-a747cca .column-2 {width: 34%;}
+.elementor-32 .elementor-element.elementor-element-a747cca .column-3 {width: 19%;}
+.elementor-32 .elementor-element.elementor-element-a747cca .column-4 {width: 20%;}
 .elementor-32 .elementor-element.elementor-element-a747cca tr:not(:last-child) > td {border-top: 0;border-bottom: 0;}
 .elementor-32 .elementor-element.elementor-element-a747cca tr:last-child > td {border-top: 0;}
 .elementor-32 .elementor-element.elementor-element-a747cca tbody tr {position: relative;}
 .elementor-32 .elementor-element.elementor-element-a747cca tbody tr:not(:first-child):after {content: "";height: 2px;padding: 0 5px;margin: 0 auto;overflow: hidden;width: calc(100% - 5px);position: absolute;left: 50%;transform: translate(-50%,0);background-image: url("https://techopsph.github.io/urc-ar-2020/wp-content/uploads/border-dashed-1.png");background-size: 100% 2px;background-position: center;background-repeat: no-repeat;}
-.elementor-32 .elementor-element.elementor-element-fbe756f .column-1 {width: 25%;}
-.elementor-32 .elementor-element.elementor-element-fbe756f .column-2 {width: 30%;}
-.elementor-32 .elementor-element.elementor-element-fbe756f .column-3 {width: 20%;}
-.elementor-32 .elementor-element.elementor-element-fbe756f .column-4 {width: 25%;}
-.elementor-32 .elementor-element.elementor-element-fbe756f tr:not(:last-child) > td {border-top: 0;border-bottom: 0;}
-.elementor-32 .elementor-element.elementor-element-fbe756f tr:last-child > td {border-top: 0;}
-.elementor-32 .elementor-element.elementor-element-fbe756f tbody tr {position: relative;}
-.elementor-32 .elementor-element.elementor-element-fbe756f tbody tr:not(:first-child):after {content: "";height: 2px;padding: 0 5px;margin: 0 auto;overflow: hidden;width: calc(100% - 5px);position: absolute;left: 50%;transform: translate(-50%,0);background-image: url("https://techopsph.github.io/urc-ar-2020/wp-content/uploads/border-dashed-1.png");background-size: 100% 2px;background-position: center;background-repeat: no-repeat;}
 .elementor-32 .elementor-element.elementor-element-72e6521 .elementor-button-icon {align-self: center;}
 .elementor-32 .elementor-element.elementor-element-72e6521 .elementor-button-content-wrapper {min-height: 50px;align-items: center;}
 @media only screen and (max-width:600px) {.elementor-32 .elementor-element.elementor-element-72e6521 .elementor-button-content-wrapper {min-height: 20px;}}
